@@ -1,9 +1,12 @@
 # Olá! Eu sou [Alan] 👋
 
 👀 Tenho interesse na interseção entre tecnologia, criatividade e projetos de código aberto.
+
 🌱 Atualmente estou aprendendo sobre a tecnologia blockchain e suas aplicações no mundo real.
+
 💞️ Estou buscando colaborar em iniciativas de código aberto que promovam inovação e impacto positivo.
-📫 Como me encontrar: [Seu Email](mailto:seuemail@example.com)
+
+📫 Como me encontrar: [amdlemos@protonmail.com](mailto:amdlemos@protonmail.com)
 
 
 
