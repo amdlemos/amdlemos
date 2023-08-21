@@ -1,35 +1,30 @@
-# Olá! Eu sou [Alan] 👋
+👋 Hi there! I'm @amdlemos 👋
 
-👀 Tenho interesse na interseção entre tecnologia, criatividade e projetos de código aberto.
+👀 I’m interested in the intersection of technology, creativity, and open-source projects.\
+🌱 I’m currently learning about Neovim, Docker, Kubernetes, Postgresql, Prometheus, and Grafana.\
+💞️ I’m looking to collaborate on open-source initiatives that promote innovation and positive impact.\
+📫 How to reach me: [Your Email](mailto:youremail@example.com)\
 
-🌱 Atualmente estou aprendendo sobre a tecnologia blockchain e suas aplicações no mundo real.
+---
 
-💞️ Estou buscando colaborar em iniciativas de código aberto que promovam inovação e impacto positivo.
+## About Me 🧐
 
-📫 Como me encontrar: [amdlemos@protonmail.com](mailto:amdlemos@protonmail.com)
+I'm an explorer of the world of technology and creativity, always seeking to learn and contribute to projects that share values of open source, innovation, and artistic expression. My journey has taken me through incredible paths, including the realms of Linux, GNU, street art, and more.
 
+In addition to my technical interests, I'm a proud father to my beloved daughter, Amélia, and feel blessed to share life with my partner, Fernanda. Our family is completed by the loving and playful presence of our dogs, Barnabé 🐾 and Luneta 🐶.
 
+## Interests 🌟
 
-## Sobre Mim 🧐
+- **Open Source Projects:** I believe in the power of global collaboration and the democratization of knowledge. Contributing to open source projects not only allows me to learn from other talented developers but also helps me give back to the community that has given me so much.
 
-Sou um explorador do mundo da tecnologia e da criatividade, sempre buscando aprender e contribuir para projetos que compartilham valores de código aberto, inovação e expressão artística. Minha jornada me levou por caminhos incríveis, incluindo o universo do Linux, GNU, arte de rua e blockchain.
+- **Linux and GNU:** I'm a Linux enthusiast and advocate for free software. The freedom of customization and the GNU/Linux philosophy are aspects that attract me. I'm always excited to learn more about different distributions and tools.
 
-Além dos meus interesses técnicos, sou um orgulhoso pai da minha amada filha, Amélia, e sou abençoado por compartilhar a vida com minha companheira, Fernanda. Nossa família é completada pela presença amorosa e brincalhona dos nossos cães, Barnabé 🐾 e Luneta 🐶.
+- **Street Art:** Creativity is a fundamental part of my life, and street art is a form of expression that fascinates me. I admire how street artists can transform urban spaces and convey powerful messages through their art.
 
-## Interesses 🌟
-
-- **Projetos Open Source:** Acredito no poder da colaboração global e na democratização do conhecimento. Contribuir para projetos de código aberto não apenas me permite aprender com outros talentosos desenvolvedores, mas também me ajuda a retribuir à comunidade que me proporcionou tanto.
-
-- **Linux e GNU:** Sou um entusiasta do Linux e defensor do software livre. A liberdade de personalização e a filosofia do GNU/Linux são aspectos que me atraem. Estou sempre empolgado em aprender mais sobre diferentes distribuições e ferramentas.
-
-- **Arte de Rua:** A criatividade é uma parte fundamental da minha vida, e a arte de rua é uma forma de expressão que me fascina. Admiro a maneira como os artistas de rua podem transformar espaços urbanos e transmitir mensagens poderosas por meio de sua arte.
-
-- **Blockchain:** A tecnologia blockchain é uma revolução que está transformando várias indústrias. Tenho interesse em entender melhor como ela funciona, suas aplicações além das criptomoedas e como pode promover a segurança e a transparência em sistemas digitais.
-
-## Contato 📬
+## Contact 📬
 
 - Email: amdlemos@protonmail.com
-  
-Fique à vontade para entrar em contato para discutir colaborações, compartilhar conhecimento ou apenas para trocar ideias sobre tecnologia, arte e inovação.
 
+Feel free to get in touch to discuss collaborations, share knowledge, or simply exchange ideas about technology, art, and innovation.
 
+---
